@@ -5,7 +5,7 @@
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi __160__ saattir. Dersler __Cumartesi - Pazar__ günleri __13:00 - 17:00__ saatleri arasında yapılacaktır.
-+ Kursun toplam ücreti KDV dahil __4100 TL__'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __3700__ TL'dir. Kurs ücretini __2__ taksitte ödeyebilirsiniz.
++ Kursun toplam ücreti KDV dahil __4.100 TL__'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __3.700__ TL'dir. Kurs ücretini __2__ taksitte ödeyebilirsiniz.
 
 ## Kursla ilgili bağlantılar
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/-ONLINE-Java-ile-Nesne-Yonelimli-Programlama-Dili-Kursu-24-TEMMUZ-2021/blob/main/kurs_tanitimi.md)
