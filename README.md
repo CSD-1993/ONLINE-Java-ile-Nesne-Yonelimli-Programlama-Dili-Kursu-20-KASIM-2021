@@ -1,7 +1,7 @@
-# ONLINE-Java-ile-Nesne-Yonelimli-Programlama-Dili-Kursu-6-KASIM-2021
+# ONLINE-Java-ile-Nesne-Yonelimli-Programlama-Dili-Kursu-20-KASIM-2021
 
  Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından Sistem Bilgisayar İşbirliği ile düzenlenmektedir.
-+ Kurs __6 Kasım 2021 Cumartesi__ günü başlayacaktır.
++ Kurs __20 Kasım 2021 Cumartesi__ günü başlayacaktır.
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi __160__ saattir. Dersler __Cumartesi - Pazar__ günleri __13:00 - 17:00__ saatleri arasında yapılacaktır.
